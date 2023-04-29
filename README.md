@@ -1,14 +1,14 @@
-# Azkar v1.6.0
+# Azkar v1.7.0
 A web-app that has morning and evening daily Azkar! 
 
 <p align=center>
-  <img width="49%" src="https://user-images.githubusercontent.com/15097797/234127275-4ce8e36e-e1c1-4787-abf7-790562232f08.png" />
-  <img width="49%" src="https://user-images.githubusercontent.com/15097797/234127278-6558768b-44d0-47c7-8eb5-38ea562e273a.png" />
+  <img width="49%" src="https://user-images.githubusercontent.com/15097797/235320918-5e91632b-0387-4e70-8ab4-6821995dd7f9.png" />
+  <img width="49%" src="https://user-images.githubusercontent.com/15097797/235320944-90b27e5f-ed9a-4cfb-b1cc-b00a3ca869af.png" />
 </p>
 
 <p align=center>
-  <img width="49%" src="https://user-images.githubusercontent.com/15097797/234127498-f3fb9206-38c9-4d1c-9ab8-24ce2c7f5cfd.png" />
-  <img width="49%" src="https://user-images.githubusercontent.com/15097797/234127503-62bb4117-a1df-4f48-b4fb-6c74b83a7b8c.png" />
+  <img width="49%" src="https://user-images.githubusercontent.com/15097797/235320963-64065546-c8de-4e7f-bcdd-6a01b8280e59.png" />
+  <img width="49%" src="https://user-images.githubusercontent.com/15097797/235320969-53519f21-faee-4c08-b0b4-f07db597682a.png" />
 </p>
 
 
