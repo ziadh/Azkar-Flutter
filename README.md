@@ -2,13 +2,13 @@
 A web-app that has morning and evening daily Azkar! 
 
 <p align=center>
-  <img width="49%" src="https://user-images.githubusercontent.com/15097797/235320918-5e91632b-0387-4e70-8ab4-6821995dd7f9.png" />
-  <img width="49%" src="https://user-images.githubusercontent.com/15097797/235320944-90b27e5f-ed9a-4cfb-b1cc-b00a3ca869af.png" />
+  <img width="49%" src="https://user-images.githubusercontent.com/15097797/235501856-8b6aeac5-3e9d-4019-a05b-25d317a3c959.png" />
+  <img width="49%" src="https://user-images.githubusercontent.com/15097797/235501893-84cf5552-f484-44e0-913c-8e6e1434ade9.png" />
 </p>
 
 <p align=center>
-  <img width="49%" src="https://user-images.githubusercontent.com/15097797/235320963-64065546-c8de-4e7f-bcdd-6a01b8280e59.png" />
-  <img width="49%" src="https://user-images.githubusercontent.com/15097797/235320969-53519f21-faee-4c08-b0b4-f07db597682a.png" />
+  <img width="49%" src="https://user-images.githubusercontent.com/15097797/235501938-1ecebdc7-4af8-43f5-9ffb-05e896a99152.png" />
+  <img width="49%" src="https://user-images.githubusercontent.com/15097797/235502076-77c6793d-a41e-4bd0-bb31-e630a7883740.png" />
 </p>
 
 
