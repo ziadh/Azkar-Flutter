@@ -1,4 +1,4 @@
-# Azkar v1.7.0
+# Zikr Zone v1.7.0
 A web-app that has morning and evening daily Azkar! 
 
 <p align=center>
