@@ -13,7 +13,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/fonts/Nabi.ttf": "8b594cca9c55edaa5577afd7aca395d3",
 "assets/fonts/Poppins-Regular.ttf": "cd6b896a19b4babd1a2fa07498e9fc47",
-"assets/NOTICES": "b375b4918a32c8cf6b8908aa44094f66",
+"assets/NOTICES": "fbab7a074b56d04e27b598a13c095350",
 "assets/packages/flutter_islamic_icons/assets/fonts/IslamicIcons.ttf": "28ee92dd0a0b20a52ec70864df91fcaf",
 "assets/windows/app_icon.ico": "3ae5172e961eb3e6b04105ac0a1464d8",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
@@ -26,11 +26,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "0c072697ed17cfe7350ef95da1802749",
-"/": "0c072697ed17cfe7350ef95da1802749",
-"main.dart.js": "2b307282d35468c3e747c3e17c28755d",
+"index.html": "3f003ccef867fd09b675b5498a4afe3c",
+"/": "3f003ccef867fd09b675b5498a4afe3c",
+"main.dart.js": "8325e38da3e2c4956a04d477d9e29d6e",
 "manifest.json": "f4bc405a6a8352fed77311de35cc327e",
-"version.json": "1b730066d4eb51d679ffc70ffa9d7d06"
+"version.json": "3f16c9d30ba8a648a7414db601b1290b"
 };
 
 // The application shell files that are downloaded before a service worker can
