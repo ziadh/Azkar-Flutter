@@ -1,20 +1,23 @@
-# Zikr Zone v1.7.3
+# Zikr Zone v1.2.0
 A web-app that has morning and evening daily Azkar! 
 
 <p align=center>
-  <img width="49%" src="https://user-images.githubusercontent.com/15097797/236707561-0a0a9521-e4b4-4262-948c-ecfea266d176.png" />
-  <img width="49%" src="https://user-images.githubusercontent.com/15097797/235501893-84cf5552-f484-44e0-913c-8e6e1434ade9.png" />
+  <img width="49%" src="https://github.com/ziadh/Safe-Data/assets/15097797/763f8b05-0bee-4c1c-8b9e-2b8706ba9c5d" />
+  <img width="49%" src="https://github.com/ziadh/Safe-Data/assets/15097797/354bf10a-8fce-4d29-a2dc-72d24698cb9e" />
 </p>
 
 <p align=center>
-  <img width="49%" src="https://user-images.githubusercontent.com/15097797/235501938-1ecebdc7-4af8-43f5-9ffb-05e896a99152.png" />
-  <img width="49%" src="https://user-images.githubusercontent.com/15097797/235502076-77c6793d-a41e-4bd0-bb31-e630a7883740.png" />
+  <img width="49%" src="https://github.com/ziadh/Safe-Data/assets/15097797/abb6f3d8-5ec7-42c2-8d2a-707a5db4cb49" />
+  <img width="49%" src="https://github.com/ziadh/Safe-Data/assets/15097797/38db4b47-2763-4972-b4e0-5ed9baef67b1" />
 </p>
 
 
 User friendly UI that keeps track of Azkar and their count per Zikr
 
 Now has a Masbaha that counts your tasbeeh!
+
+You can now read Surat Al Kahef when it is Friday!
+
 
 Available for iOS and Android!
 
