@@ -13,7 +13,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/fonts/Nabi.ttf": "8b594cca9c55edaa5577afd7aca395d3",
 "assets/fonts/Poppins-Regular.ttf": "cd6b896a19b4babd1a2fa07498e9fc47",
-"assets/NOTICES": "353d96a4de14daf6cdb1854e34b18763",
+"assets/NOTICES": "e0dd73215fd7efe23c0dffa931587795",
 "assets/packages/flutter_islamic_icons/assets/fonts/IslamicIcons.ttf": "28ee92dd0a0b20a52ec70864df91fcaf",
 "assets/windows/app_icon.ico": "3ae5172e961eb3e6b04105ac0a1464d8",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
@@ -26,9 +26,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e1ad5dc5526087636f37d54565904b23",
-"/": "e1ad5dc5526087636f37d54565904b23",
-"main.dart.js": "7f73a7b84b2f4161a053ab2159349bd6",
+"index.html": "bd211129e81b61c335e2a4115ea3bd69",
+"/": "bd211129e81b61c335e2a4115ea3bd69",
+"main.dart.js": "4d1d06e5b631cd8a8ff314e1bd5c821e",
 "manifest.json": "f4bc405a6a8352fed77311de35cc327e",
 "version.json": "95d99a5ca6c78da0e6c3c3b5f2c7aedb"
 };
