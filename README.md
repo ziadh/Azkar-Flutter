@@ -1,28 +1,32 @@
-# Zikr Zone v1.4.0
-A web-app that has morning and evening daily Azkar! 
+# Zikr Zone v1.9.0
+A web-app that has morning and evening daily Azkar and so much more to keep you remembering your Lord! 
 
 Download on Android from [here](https://play.google.com/store/apps/details?id=com.ziadh.zikr) for FREE
 
 
 <p align=center>
-  <img width="49%" src="https://github.com/ziadh/Zikr_Zone_Flutter/assets/15097797/42e4753b-fdaf-4f34-a802-0381b76eff68" />
-  <img width="49%" src="https://github.com/ziadh/Zikr_Zone_Flutter/assets/15097797/4b912df4-76d3-477e-baa7-02965976c9cc" />
+  <img width="49%" src="https://github.com/ziadh/Zikr_Zone_Flutter/assets/15097797/6b1c4866-b7b5-4254-b5e7-a7ecf59c29af" />
+  <img width="49%" src="https://github.com/ziadh/Zikr_Zone_Flutter/assets/15097797/bd1c3dfa-28b5-42f0-8012-489c3bcca77d" />
 </p>
 
 <p align=center>
-  <img width="49%" src="https://github.com/ziadh/Zikr_Zone_Flutter/assets/15097797/164079ac-36b6-4f6e-9472-e5b6e8a27133" />
-  <img width="49%" src="https://github.com/ziadh/Zikr_Zone_Flutter/assets/15097797/1efb3cbf-f1e4-49e4-afba-82e1b76d86d7" />
+  <img width="49%" src="https://github.com/ziadh/Zikr_Zone_Flutter/assets/15097797/2636e69d-e7b1-4f70-b857-c855f8bf9408" />
+  <img width="49%" src="https://github.com/ziadh/Zikr_Zone_Flutter/assets/15097797/799592f5-b8b8-426a-8730-29ca52611ad8" />
 </p>
 
 <p align=center>
-  <img width="49%" src="https://github.com/ziadh/Zikr_Zone_Flutter/assets/15097797/ad91a779-2a2d-4f95-b95e-3deb81996117" />
-  <img width="49%" src="https://github.com/ziadh/Zikr_Zone_Flutter/assets/15097797/0f898fdb-914f-42ac-8ca5-843c7be1a2c1" />
+  <img width="49%" src="https://github.com/ziadh/Zikr_Zone_Flutter/assets/15097797/6434e2ce-f78c-4d92-987d-eb47feef1afa" />
+  <img width="49%" src="https://github.com/ziadh/Zikr_Zone_Flutter/assets/15097797/8cdfd4c7-962a-448b-9a6d-6ba0c19ea58d" />
 </p>
-User friendly UI that keeps track of Azkar and their count per Zikr
 
-Now has a Masbaha that counts your tasbeeh!
+## Features: 
+- User friendly UI that keeps track of Azkar and their count per Zikr
 
-You can now read Surat Al Kahef when it is Friday and Surat Al Mulk before sleeping right from the app!
+- Offers English translations and transliterations 
+
+- Now has a Masbaha that counts your tasbeeh!
+
+- You can read Surat Al Kahef when it is Friday and Surat Al Mulk before sleeping right from the app!
 
 
 Compatible with iOS and Android
