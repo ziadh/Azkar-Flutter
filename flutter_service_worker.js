@@ -3,8 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "7f47e97129e6db1995be6964fa30512e",
-"assets/assets/app_icon.png": "42f299684828bd0b98a24525d1d843ec",
+  "assets/AssetManifest.json": "d372897eb5e419d1cd57476d364fa3ac",
 "assets/assets/audit.png": "ac7ce4715ce01c7b09b178e475d18355",
 "assets/assets/badge.png": "29528d96928e64f23e895bfb09651106",
 "assets/assets/icon_trans.png": "f027547bc5fd768354f9e35d00c19dbc",
@@ -16,7 +15,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/fonts/Nabi.ttf": "8b594cca9c55edaa5577afd7aca395d3",
 "assets/fonts/Poppins-Regular.ttf": "cd6b896a19b4babd1a2fa07498e9fc47",
-"assets/NOTICES": "b815028c304fa21666649de7db519b20",
+"assets/NOTICES": "1eab48e08dfb9d73860c4f1690fff2c0",
 "assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Filled.ttf": "1319589d4d68e4bad4dcfb22395e80d0",
 "assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Regular.ttf": "95c1c25a464145c1d85290963d0b97ee",
 "assets/packages/flutter_islamic_icons/assets/fonts/IslamicIcons.ttf": "28ee92dd0a0b20a52ec70864df91fcaf",
@@ -32,11 +31,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "88dd7efee814f67a274d91ee2b4594d4",
-"/": "88dd7efee814f67a274d91ee2b4594d4",
-"main.dart.js": "c651b22c0911ce2a991b22d2f2f2ab3d",
+"index.html": "a2579b8e7161ebfb5bb4e6227362d9e0",
+"/": "a2579b8e7161ebfb5bb4e6227362d9e0",
+"main.dart.js": "dfa9e36bfbc8e9ce9ce1b76c3e69d8ce",
 "manifest.json": "f4bc405a6a8352fed77311de35cc327e",
-"version.json": "ccfe62f27a55a9191552acecb70c969f"
+"version.json": "e179a87a37086191dbefa7dfbb1d431a"
 };
 
 // The application shell files that are downloaded before a service worker can
