@@ -1,4 +1,4 @@
-# Zikr Zone v1.9.0
+# Zikr Zone v1.9.1
 A web-app that has morning and evening daily Azkar and so much more to keep you remembering your Lord! 
 
 Download on Android from [here](https://play.google.com/store/apps/details?id=com.ziadh.zikr) for FREE
