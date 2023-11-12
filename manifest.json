@@ -1,6 +1,6 @@
 {
-    "name": "Zikr Zone",
-    "short_name": "Zikr Zone",
+    "name": "my_azkar_flutter",
+    "short_name": "my_azkar_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
