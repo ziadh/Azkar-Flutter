@@ -25,11 +25,11 @@ const RESOURCES = {"assets/arabictranslate.png": "71cd6fd3bcea667b7ffed3d126cf96
 "assets/fonts/CastoroTitling-Regular.ttf": "28ff7f05cea1e3ee4a9e319cc5e238f5",
 "assets/fonts/Hafs.ttf": "a1ffd466ac6f924bff676fe0e828c4cf",
 "assets/fonts/MADDINA.ttf": "5c1fbb6f9a1064da1779be00d5269839",
-"assets/fonts/MaterialIcons-Regular.otf": "057c71dc7191250ba1772818d195a2d2",
+"assets/fonts/MaterialIcons-Regular.otf": "98e9c01fbea0f00cc9ca4983a1dfef05",
 "assets/fonts/Nabi.ttf": "8b594cca9c55edaa5577afd7aca395d3",
 "assets/fonts/Poppins-Regular.ttf": "cd6b896a19b4babd1a2fa07498e9fc47",
 "assets/icon_trans.png": "f027547bc5fd768354f9e35d00c19dbc",
-"assets/NOTICES": "22205c1b11d8364257487bcf70d90f27",
+"assets/NOTICES": "6e04bde6493122828c0ff5756f733057",
 "assets/packages/country_state_city_pro/assets/city.json": "3a7a4886baa0f1d4f3dc40a72dc35885",
 "assets/packages/country_state_city_pro/assets/country.json": "de2a8a8da3cce0928ec6939e49dba675",
 "assets/packages/country_state_city_pro/assets/state.json": "e4745737737ccbda1213e0af9839925f",
@@ -57,11 +57,11 @@ const RESOURCES = {"assets/arabictranslate.png": "71cd6fd3bcea667b7ffed3d126cf96
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b16a35720567bb62ce6337119d240532",
-"/": "b16a35720567bb62ce6337119d240532",
-"main.dart.js": "c04ce94bb406bbdb057d6f73126ea1ee",
+"index.html": "5eec4c4df59411181e5cfad51fcd6a8d",
+"/": "5eec4c4df59411181e5cfad51fcd6a8d",
+"main.dart.js": "19408f562a2c81036c6d76085c6e1eb4",
 "manifest.json": "f4bc405a6a8352fed77311de35cc327e",
-"version.json": "24ba03ebfc56585afbdbcabd417db88e"};
+"version.json": "362e868bec5e69a8951bb4457a1df6e9"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
