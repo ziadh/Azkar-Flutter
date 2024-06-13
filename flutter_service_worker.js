@@ -29,11 +29,11 @@ const RESOURCES = {"assets/arabictranslate.png": "71cd6fd3bcea667b7ffed3d126cf96
 "assets/fonts/CastoroTitling-Regular.ttf": "28ff7f05cea1e3ee4a9e319cc5e238f5",
 "assets/fonts/Hafs.ttf": "a1ffd466ac6f924bff676fe0e828c4cf",
 "assets/fonts/MADDINA.ttf": "5c1fbb6f9a1064da1779be00d5269839",
-"assets/fonts/MaterialIcons-Regular.otf": "4abdfd1f132339233c217848f8d079cc",
+"assets/fonts/MaterialIcons-Regular.otf": "c5f82700da173f0b9cfc3990dc5e0e32",
 "assets/fonts/Nabi.ttf": "8b594cca9c55edaa5577afd7aca395d3",
 "assets/fonts/Poppins-Regular.ttf": "cd6b896a19b4babd1a2fa07498e9fc47",
 "assets/icon_trans.png": "f027547bc5fd768354f9e35d00c19dbc",
-"assets/NOTICES": "9d8a58b83a018f10051d9f4c08ef891b",
+"assets/NOTICES": "1ab2ca1d0fedea8e921f6204cd36bb2b",
 "assets/packages/awesome_notifications/test/assets/images/test_image.png": "c27a71ab4008c83eba9b554775aa12ca",
 "assets/packages/country_state_city_pro/assets/city.json": "3a7a4886baa0f1d4f3dc40a72dc35885",
 "assets/packages/country_state_city_pro/assets/country.json": "de2a8a8da3cce0928ec6939e49dba675",
@@ -65,11 +65,11 @@ const RESOURCES = {"assets/arabictranslate.png": "71cd6fd3bcea667b7ffed3d126cf96
 "icons/Icon-512.png": "59487f8f1f228d43326dc3da48a41be9",
 "icons/Icon-maskable-192.png": "20dd5d47c3430626047a1149199625d9",
 "icons/Icon-maskable-512.png": "59487f8f1f228d43326dc3da48a41be9",
-"index.html": "df64bcdbb3f2ed06b4c68b291087800f",
-"/": "df64bcdbb3f2ed06b4c68b291087800f",
-"main.dart.js": "ef5ebf874044a3c2d22f80fa60d87a69",
+"index.html": "dc764f9063d8714753c4b30f69afda74",
+"/": "dc764f9063d8714753c4b30f69afda74",
+"main.dart.js": "b24d12e3f3c34acfb39500714279920e",
 "manifest.json": "f4bc405a6a8352fed77311de35cc327e",
-"version.json": "f7c8efa0cdd95d5f4e6b6370288894ff"};
+"version.json": "603e8b4f86b5274df25e8c7bcfc90464"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
