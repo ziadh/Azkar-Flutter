@@ -2,22 +2,7 @@
 <html>
 
 <head>
-  <script defer data-website-id="677dbb5b98f218859bd3c647" data-domain="zikrzone.app"
-    src="https://datafa.st/js/script.js">
-    </script>
-  <!--
-    If you are serving your web app in a path other than the root, change the
-    href value below to reflect the base path you are serving from.
-
-    The path provided below has to start and end with a slash "/" in order for
-    it to work correctly.
-
-    For more details:
-    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
-
-    This is a placeholder for base href that will be replaced by the value of
-    the `--base-href` argument provided to `flutter build`.
-  -->
+  <!-- Base href for Flutter web app -->
   <base href="/">
 
   <meta charset="UTF-8">
@@ -33,17 +18,20 @@
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png" />
-
   <title>Zikr Zone</title>
   <link rel="manifest" href="manifest.json">
+
+  <!-- Datafast Analytics Script - Moved to head before other scripts -->
+  <script async data-website-id="677dbb5b98f218859bd3c647" data-domain="zikrzone.app"
+    src="https://datafa.st/js/script.js"></script>
 
   <script>
     // The value below is injected by flutter build, do not touch.
     const serviceWorkerVersion = "3579264739";
   </script>
-  <!-- This script adds the flutter initialization JS code -->
-  <script src="flutter.js" defer></script>
 
+  <!-- Flutter initialization JS code -->
+  <script src="flutter.js" defer></script>
 </head>
 
 <body>
