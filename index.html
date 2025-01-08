@@ -17,6 +17,11 @@
   -->
   <base href="/">
 
+  <!-- Analytics script - moved to top of head -->
+  <script async data-website-id="677dbb5b98f218859bd3c647" data-domain="zikrzone.app"
+    src="https://datafa.st/js/script.js">
+  </script>
+
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="A new Flutter project.">
@@ -33,6 +38,7 @@
 
   <title>Zikr Zone</title>
   <link rel="manifest" href="manifest.json">
+
   <script>
     // The value below is injected by flutter build, do not touch.
     const serviceWorkerVersion = "3579264739";
@@ -40,6 +46,11 @@
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 
+  <script>
+    window.addEventListener('load', function() {
+      console.log('Checking if analytics script is loaded:', !!window.umami);
+    });
+  </script>
 </head>
 
 <body>
@@ -57,12 +68,6 @@
         }
       });
     });
-  </script>
-  
-  <!-- Analytics script moved here -->
-  <script data-website-id="677dbb5b98f218859bd3c647" 
-          data-domain="zikrzone.app" 
-          src="https://datafa.st/js/script.js">
   </script>
 </body>
 
